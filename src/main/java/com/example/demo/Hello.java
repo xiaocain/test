@@ -8,6 +8,8 @@ import org.springframework.web.bind.annotation.RestController;
 public class Hello {
     @RequestMapping(value = "/hello",method = RequestMethod.GET)
     public String hello(){
+		
+		sssss
 		靠靠靠靠急急急
 sdsds
 	return "汪纤纤";
